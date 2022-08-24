@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
-export default class Landing extends Component {
+export  class Landing extends Component {
   constructor() {
     super();
     this.state = {
